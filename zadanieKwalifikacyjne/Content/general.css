@@ -1,0 +1,23 @@
+﻿#ddlAdminCity
+{
+    margin-left: 0;
+    width: 200px;
+    text-align: center;
+}
+
+#txtAdminDay {
+    margin-left: 0;
+    width: 200px;
+}
+
+#txtUserDay {
+    margin-left: 0;
+    width: 200px;
+}
+
+
+#ddlUserCity {
+    margin-left: 0;
+    width: 200px;
+    text-align: center;
+}
